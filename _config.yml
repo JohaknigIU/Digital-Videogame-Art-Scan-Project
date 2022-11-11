@@ -20,12 +20,24 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Week 3 DemoSite!
+title: Digital Videogame Art Scan Project
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Week 3 homework 
+tagline: Videogame Artwork Collection 
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: " This excercise is designed to help learn using github for week 3 of class "
+description: " This project is being curated based on the collection of an individual’s single video game 
+collection, who is both well versed in video game history, culture and studying library science. This 
+results in many traditional metadata fields for digital content in addition to some unique elements that 
+help to represent key features of video games as a medium. Rather than house running copies of each 
+video game, this collection instead highlights the physicality of the medium; focusing on the housing, 
+instructions, and storage mediums of video games and the artwork attached to them. It features the 
+boxing art, instruction manuals, and cartridges and discs from four unique game systems. This highlights 
+the differences in presentation and information given based on the time of release and the unique 
+hardware environment of each platform. The intended userbase is for researchers and hobbyists of 
+video games; specifically those interested in the material art of physical video game packaging. The 
+collection is also built to cater to the more casual audience or those that have less experience with video 
+games; offering links to YouTube videos that show trailers or music samples from particular titles and 
+even the chance to play some titles through the Internet Archive’s use of web-based emulation"
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: Johaknig
 
@@ -34,7 +46,7 @@ author: Johaknig
 #
 # Set the metadata for your collection (the name of the csv file in your _data directory that describes the objects in your collection) 
 # Use the filename of your CSV **without** the ".csv" extension! E.g. _data/demo-metadata.csv --> "demo-metadata"
-metadata: psychina-demo
+metadata: metadata
 
 ##########
 # Site/Organization Branding 
