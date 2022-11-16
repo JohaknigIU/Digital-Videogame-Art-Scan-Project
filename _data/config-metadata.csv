@@ -1,4 +1,4 @@
-field,display_name,browse_link,external_link
+field,display_name,browse_link
 Title,Title,DCTERMS.title
 Creator,Creator,DCTERMS.creator
 Date,Original Date,DCTERMS.date
