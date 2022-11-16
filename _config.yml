@@ -27,7 +27,7 @@ tagline: Videogame Artwork Collection
 # this description might appear in search result lists, keep around 160 characters max
 description: "This project is a collection of box art, instruction manuals, cartridges, and discs from a personal video game collection. It features materials from the Sega Genesis, Sega Dreamcast, Nintendo GameCube, and Nintendo DS. Each game also features a link to YouTube videos that show trailers or examples of gameplay from particular titles and even the chance to play some titles through the Internet Archive’s use of web-based emulation."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: Johaknig
+author: JohaknigIU
 
 ##########
 # COLLECTION SETTINGS
@@ -53,7 +53,7 @@ metadata: metadata
 # leave these blank or comment out to NOT include google code. See docs/google.md
 #
 # Add your google-analytics-id to automatically add the embed code, e.g. "UA-76328753-1"
-google-analytics-id: UA-76328753-1
+#google-analytics-id: UA-76328753-1
 # to populate a Google CSE add the id, e.g. "002151703305773322890:1pu3smhw1t8"
 # google-cse-id: 
 
