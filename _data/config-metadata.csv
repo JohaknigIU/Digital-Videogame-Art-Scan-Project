@@ -1,15 +1,13 @@
 field,display_name,browse_link,external_link
-title,Title,
-creator,Creator,
-date,Date Created,
-description,Description,
-subject,Subjects,true
-location,Location
-latitude,Latitude
-longitude,Longitude
+title,Title,DCTERMS.title
+creator,Creator,DCTERMS.creator
+date,Date,DCTERMS.date
+description,Description,DCTERMS
+subject,Game ID,DCTERMS.subject,true=
 source,Source
 identifier,Source Identifier,,
-type,Type,
-format,Format,
-rights,Rights,
+type,Type,DCTERMS.type
+format,Format,DCTERMS.format
+format,Media Format,DCTERMS.format
+rights,Rights,DCTERMS.rights
 rightsstatement,Rights Statement,,true
