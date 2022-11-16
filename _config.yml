@@ -25,19 +25,7 @@ title: Digital Videogame Art Scan Project
 tagline: Videogame Artwork Collection 
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: " This project is being curated based on the collection of an individual’s single video game 
-collection, who is both well versed in video game history, culture and studying library science. This 
-results in many traditional metadata fields for digital content in addition to some unique elements that 
-help to represent key features of video games as a medium. Rather than house running copies of each 
-video game, this collection instead highlights the physicality of the medium; focusing on the housing, 
-instructions, and storage mediums of video games and the artwork attached to them. It features the 
-boxing art, instruction manuals, and cartridges and discs from four unique game systems. This highlights 
-the differences in presentation and information given based on the time of release and the unique 
-hardware environment of each platform. The intended userbase is for researchers and hobbyists of 
-video games; specifically those interested in the material art of physical video game packaging. The 
-collection is also built to cater to the more casual audience or those that have less experience with video 
-games; offering links to YouTube videos that show trailers or music samples from particular titles and 
-even the chance to play some titles through the Internet Archive’s use of web-based emulation"
+description: "This project is a collection of box art, instruction manuals, cartridges, and discs from a personal video game collection. It features materials from the Sega Genesis, Sega Dreamcast, Nintendo GameCube, and Nintendo DS. Each game also features a link to YouTube videos that show trailers or examples of gameplay from particular titles and even the chance to play some titles through the Internet Archive’s use of web-based emulation."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: Johaknig
 
@@ -52,10 +40,10 @@ metadata: metadata
 # Site/Organization Branding 
 #   Uncomment these and enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
 #
-# organization-name: "Z652 Digital Libraries"
-# organization-link: https://jawalsh.github.io/z652-Digital-Libraries/ 
-# organization-logo-banner: http://clipart-library.com/img1/621480.png
-# organization-logo-nav: http://clipart-library.com/img1/305732.jpg
+ organization-name: "Z652 Digital Libraries"
+ organization-link: https://jawalsh.github.io/z652-Digital-Libraries/ 
+ organization-logo-banner: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Indiana_Hoosiers_logo.svg/608px-Indiana_Hoosiers_logo.svg.png
+ organization-logo-nav: https://imgur.com/a/ijbYpgP 
 
 
 
@@ -73,7 +61,7 @@ google-analytics-id: UA-76328753-1
 # ROBOTS EXCLUDE
 #
 # set noindex to true if you do NOT want Google to index your site
-noindex: true 
+noindex: false
 
 ##########
 # BUILD SETTINGS 
