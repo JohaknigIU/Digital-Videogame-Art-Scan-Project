@@ -58,10 +58,10 @@ year-nav-increment: 5 # set increments when auto gen nav years
 #
 # add metadata fields for export in data downloads (tip: paste in first row of csv)
 # comma delimited list, reference url is automatic
-metadata-export-fields: "Title,Media type,Media format,Platform,Publisher,Game ID,Creator,Date,ObjectID.,Filename,Language,Description,Franchise,Genre,Rights,YoutubeID,Internet Archive Link"
+metadata-export-fields: "title,media-type,media-format,platform,publisher,gameid,creator,date,objectid,filename,language,description,franchise,genre,rights,youtubeid,internetarchivelink"
 "
 # generate a facets list for given fields, comma delimited
-metadata-facets-fields: "Media Type,Platform,Publisher,Game ID"
+metadata-facets-fields: "mediatype,platform,publisher,gameid"
 
 ##########
 # ADVANCED OPTIONS
