@@ -2,8 +2,8 @@ field,display_name,browse_link
 Title,Title,DCTERMS.title
 Creator,Creator,DCTERMS.creator
 Date,Original Date,DCTERMS.date
-Description,Description,DCTERMS
-Game ID,Game Title,DCTERMS.subject,true=
+Description,Description,DCTERMS.description 
+Game ID,Game Title,DCTERMS.subject
 Platform,Type,DCTERMS.type
 Media Type,Media Type,DCTERMS.format
 Media Format,Media Format,DCTERMS.format
