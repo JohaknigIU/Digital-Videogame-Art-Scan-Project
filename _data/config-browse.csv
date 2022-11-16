@@ -1,5 +1,5 @@
 field,display_name,btn,hidden,sort_name
-date,Date,,,Date
-creator,Creator,,,
-subject,,true
-location,,true
+Media Type,Media Type,true,,
+Platform,Platform,true,,
+Publisher,Publisher,true,,
+Game ID, Game Title,true,,
