@@ -8,7 +8,7 @@
 #
 # featured image is used in home page banner and in meta markup to represent the collection
 # use either an objectid (from an item in this collect), a relative location of an image in this repo (ex. /assets/img/feature.jpg), or a full url to an image elsewhere
-featured-image: objects/GenSTHb002.jpg
+featured-image: /images/GenSTHb002.jpg
 # optional: add extra padding around collection title for a larger image feature. 
 home-title-y-padding: 8em # Default is 8em
 # optional: change position of background image, center, top, bottom
@@ -59,7 +59,6 @@ year-nav-increment: 5 # set increments when auto gen nav years
 # add metadata fields for export in data downloads (tip: paste in first row of csv)
 # comma delimited list, reference url is automatic
 metadata-export-fields: "title,media-type,media-format,platform,publisher,gameid,creator,date,objectid,filename,language,description,franchise,genre,rights,youtubeid,internetarchivelink"
-"
 # generate a facets list for given fields, comma delimited
 metadata-facets-fields: "mediatype,platform,publisher,gameid"
 
