@@ -1,16 +1,16 @@
-field,display_name,browse_link
-Title,Title,DCTERMS.title
-Creator,Creator,DCTERMS.creator
-Date,Original Date,DCTERMS.date
-Description,Description,DCTERMS.description 
-Game ID,Game Title,DCTERMS.subject
-Platform,Type,DCTERMS.type
-Media Type,Media Type,DCTERMS.format
-Media Format,Media Format,DCTERMS.format
-Rights,Rights,DCTERMS.rights
-Language,Language,DCTERMS.language
-Description,Description,DCTERMS.description
-Franchise,Franchise,DCTERMS.relation
-Genre,Genre,DCTERMS.audience
-YouTubeID,YouTube Link,DCTERMS.contributor
-Internet Archive Link,Internet Archive Link,DCTERMS.contributor
+field,display_name,browse_link,external_link
+title,Title,,
+creator,Creator,,
+date,Original Date,,
+description,Description,,
+gameid,Game Title,,
+platform,Platform,,
+media-type,Media Type,,
+media-format,Media Format,,
+rights,Rights,,
+language,Language,,
+description,Description,,
+franchise,Franchise,,
+genre,Genre,,
+youtubeid,YouTube Link,,true
+internetarchivelink,Internet Archive Link,,true
