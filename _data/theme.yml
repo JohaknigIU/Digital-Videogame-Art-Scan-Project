@@ -12,7 +12,7 @@ featured-image: /images/GenSTHb002.jpg
 # optional: add extra padding around collection title for a larger image feature. 
 home-title-y-padding: 8em # Default is 8em
 # optional: change position of background image, center, top, bottom
-home-banner-image-position: # Default is center
+home-banner-image-position: top
 
 ##########
 # ITEM PAGE
@@ -23,7 +23,7 @@ browse-buttons: true # true/false, adds previous/next arrows to item pages
 ##########
 # SUBJECTS PAGE
 #
-subjects-fields: subject;Creator;Media Type;Platform;Publisher;Game ID;Franchise;Genre; # set the field to be featured in the cloud (if left blank, none will be generated)
+subjects-fields: subject;creator;media-type;platform;publisher;gameid;franchise;genre; # set the field to be featured in the cloud (if left blank, none will be generated)
 subjects-min: 3 # min size for subject cloud, too many terms = slow load time!
 subjects-stopwords: # boxers;boxing;boxer # set of subjects separated by ;, e.g. boxers;boxing
 
@@ -58,7 +58,7 @@ year-nav-increment: 5 # set increments when auto gen nav years
 #
 # add metadata fields for export in data downloads (tip: paste in first row of csv)
 # comma delimited list, reference url is automatic
-metadata-export-fields: "title,media-type,media-format,platform,publisher,gameid,creator,date,objectid,filename,language,description,franchise,genre,rights,youtubeid,internetarchivelink"
+metadata-export-fields: "title,media-type,media-format,platform,publisher,gameid,creator,date,objectid,filename,language,description,franchise,genre,rights,youtube-link,internetarchivelink"
 # generate a facets list for given fields, comma delimited
 metadata-facets-fields: "mediatype,platform,publisher,gameid"
 

@@ -1,5 +1,5 @@
 field,display_name,btn,hidden,sort_name
-Media Type,Media Type,true,,
-Platform,Platform,true,,
-Publisher,Publisher,true,,
-Game ID, Game Title,true,,
+media-type,Media Type,true,,Media Type
+platform,Platform,true,,Platform
+publisher,Publisher,true,,Publisher
+gameid, Game Title,true,,Game Title 

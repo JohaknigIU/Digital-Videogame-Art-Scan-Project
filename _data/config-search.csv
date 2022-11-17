@@ -1,4 +1,4 @@
 field,index,display
-Title,true,true
-Game ID,true,true
-Creator,true,true
+title,true,true
+gameid,true,true
+creator,true,true
