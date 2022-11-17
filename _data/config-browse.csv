@@ -3,5 +3,6 @@ media-type,Media Type,true,,Media Type
 platform,Platform,true,,Platform
 publisher,Publisher,true,,Publisher
 gameid,Game Title,true,,Game Title 
+franchise,Franchise,true,,Franchise
 genre,Genre,true,,Genre
 creator,Creator,true,,Creator
