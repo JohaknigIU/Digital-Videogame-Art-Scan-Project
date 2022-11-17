@@ -4,3 +4,4 @@ platform,Platform,true,,Platform
 publisher,Publisher,true,,Publisher
 gameid,Game Title,true,,Game Title 
 genre,Genre,true,,Genre
+creator,Creator,true,,Creator
