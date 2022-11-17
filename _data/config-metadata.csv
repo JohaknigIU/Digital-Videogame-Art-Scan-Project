@@ -13,5 +13,5 @@ language,Language,,
 description,Description,,
 franchise,Franchise,true,
 genre,Genre,true,
-youtubeid,YouTube Link,,true
+youtube-link,YouTube Link,,true
 internetarchivelink,Internet Archive Link,,true
