@@ -1,7 +1,7 @@
 field,display_name
-Title,Title
-Platform,Platform
-Date,Date
-Creator,Creator
-Description,Description
-Genre,Genre
+title,Title
+platform,Platform
+date,Date
+creator,Creator
+description,Description
+genre,Genre
