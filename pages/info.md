@@ -1,6 +1,8 @@
+---
 title: Information 
 layout: about
 permalink: /info.html
+---
 
 # Information on the  Collection
 
