@@ -9,6 +9,7 @@ permalink: /info.html
 This collection features a variety of game materials from different hardware platforms. Each system contains unique computer parts that allow for different visual effects, sound, and gameplay features. A particular game will only play on the platform it is programed for. The terms platform, system and console are all terms used to describe a hardware platform. 
 # System Info and History 
 ## Sega Genesis: 1988 Japan, 1989 US
+{% include feature/image.html objectid="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Sega-Genesis-Mod1-Bare.jpg/1920px-Sega-Genesis-Mod1-Bare.jpg" %} 
 The Sega Genesis was Sega's second generation home games console after limitied success in the 8bit home game system market. The Gensis was called the Sega Mega Drive in Japan and Europe, but was switched to Genesis in the United States due to copyright issues. It is a 16 bit machine famous for it's unique sound and arcade ports. Due to breakout hits like Sonic the Hedgehog, Sega tied rival Nintendo for marketshare in the US market against their competting Super Nintendo system. 
 [More information here](https://en.wikipedia.org/wiki/Sega_Genesis) 
 ## Sega Genesis/CD: 1991
